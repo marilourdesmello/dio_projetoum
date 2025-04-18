@@ -1,0 +1,3 @@
+O modelo de Machine Learning foi treinado para prever vendas de sorvete com base na temperatura.
+O modelo mostrou um bom desempenho na previsão, com RMSE de 15 e R² de 0.89.
+A variação da temperatura tem um grande impacto nas vendas, com temperaturas mais altas associadas a vendas maiores.
