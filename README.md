@@ -22,5 +22,5 @@ O modelo de regressão linear foi treinado usando dados históricos de temperatu
 ## 🔧 Como Rodar o Projeto Localmente
 
 1. Clone este repositório:
-
+https://github.com/marilourdesmello/dio_projetoum.git
 
