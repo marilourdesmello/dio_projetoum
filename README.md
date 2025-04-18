@@ -14,7 +14,7 @@ O modelo de regressão linear foi treinado usando dados históricos de temperatu
    - O modelo de regressão linear foi treinado com dados históricos para prever as vendas com base na temperatura.
 
 3. **Implantação:**
-   - A API foi construída usando o **FastAPI** para fornecer previsões em tempo real. Ela foi implantada em nuvem utilizando o **Render**.
+   - A API foi construída usando o **FastAPI** para fornecer previsões em tempo real. Ela foi implantada em nuvem utilizando o **Azure Machine Learning**.
 
 4. **Avaliação:**
    - O desempenho foi avaliado utilizando as métricas RMSE (Root Mean Square Error) e R².
